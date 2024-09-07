@@ -1,1 +1,18 @@
 Ananda Shaqueena Khumairoh
+
+git -v
+git config --global user.name "okey29"
+git config --global user.email "okey.saint@gmail.com"
+git init
+git status
+git add "nama_file"
+git commit -m "add awesam.txt"
+git push
+git remote add origin https://github.com/okey29/belajar-git.git
+git push --set-upstream origin master
+
+edit file / update file txt tsb
+
+git add .
+git commit -m "add awesam.txt"
+git push
