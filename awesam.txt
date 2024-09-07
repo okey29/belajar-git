@@ -16,3 +16,6 @@ edit file / update file txt tsb
 git add .
 git commit -m "add awesam.txt"
 git push
+
+git branch -a
+git fetch
